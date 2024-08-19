@@ -6,7 +6,8 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tedkouuu&theme=darkhub&margin-w=15&margin-h=15&no-bg=true" alt="tedkouuu" /></a>
 </p>
-👨‍💻 About Me
+👨‍💻 About Me:
+
 I'm a dedicated web developer with a strong focus on creating scalable and efficient applications. With a deep understanding of modern web technologies, I thrive on bringing ideas to life through code. Whether it's front-end or back-end development, I am committed to delivering high-quality solutions.
 
 
