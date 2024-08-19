@@ -89,7 +89,7 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/teodor-trendafilov-08017b243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/tedkouuu" target="_blank">
