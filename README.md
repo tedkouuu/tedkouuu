@@ -86,15 +86,13 @@ Check out more of my work on my GitHub repositories.
   </a>
 </p>
 📊 GitHub Stats
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact" alt="tedkouuu" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en" alt="tedkouuu" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tedkouuu&" alt="tedkouuu" />
-</p>
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en&theme=radical" alt="tedkouuu" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tedkouuu" width="48%"/>
+</div>
+<div style="display: flex; justify-content: center; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tedkouuu&theme=radical" alt="tedkouuu" width="100%"/>
+</div>
 🤝 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
