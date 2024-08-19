@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Teodor</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tedkouuu&label=Profile%20views&color=0e75b6&style=flat" alt="tedkouuu" />
-</p>
-
 ### 👨‍💻 About Me:
 
 I'm a dedicated web developer with a strong focus on creating scalable and efficient applications. With a deep understanding of modern web technologies, I thrive on bringing ideas to life through code. Whether it's front-end or back-end development, I am committed to delivering high-quality solutions.
