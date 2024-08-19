@@ -10,24 +10,8 @@
 I'm a dedicated web developer with a strong focus on creating scalable and efficient applications. With a deep understanding of modern web technologies, I thrive on bringing ideas to life through code. Whether it's front-end or back-end development, I am committed to delivering high-quality solutions.
 
 
-🌱 I’m currently learning [Insert New Technology or Skill Here]
-💬 Ask me about JavaScript, React, Docker, and Kubernetes
-📫 How to reach me: teodor@example.com (replace with your email)
+💬 Ask me about Java, JavaScript, React, Docker, and Kubernetes
 ⚡ Fun fact: I'm a huge fan of open-source projects and love contributing to the community!
-🏆 Key Projects
-Here are some of the projects I'm most proud of:
-
-Project Name 1
-
-🚀 Description: A brief description of what this project is about.
-🌟 Tech Stack: React, Node.js, MongoDB
- (replace with your project's image or GIF)
-Project Name 2
-
-🚀 Description: A brief description of what this project is about.
-🌟 Tech Stack: Python, Flask, PostgreSQL
- (replace with your project's image or GIF)
-Check out more of my work on my GitHub repositories.
 
 🛠️ Languages and Tools
 <p align="center">
