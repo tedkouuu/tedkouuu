@@ -106,7 +106,7 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
   <a href="https://www.linkedin.com/in/teodor-trendafilov-08017b243" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/tedkouuu" target="_blank">
+  <a href="https://github.com/tedkouuu?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
