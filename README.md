@@ -9,6 +9,7 @@
 👨‍💻 About Me
 I'm a dedicated web developer with a strong focus on creating scalable and efficient applications. With a deep understanding of modern web technologies, I thrive on bringing ideas to life through code. Whether it's front-end or back-end development, I am committed to delivering high-quality solutions.
 
+<br>
 
 🌱 I’m currently learning [Insert New Technology or Skill Here]
 💬 Ask me about JavaScript, React, Docker, and Kubernetes
