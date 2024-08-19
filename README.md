@@ -75,8 +75,6 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
   </a>
 </p>
 
-### 📊 GitHub Stats
-
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 
   <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
