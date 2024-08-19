@@ -14,7 +14,8 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 💬 Ask me about Java, JavaScript, React, Docker, and Kubernetes
 ⚡ Fun fact: I'm a huge fan of open-source projects and love contributing to the community!
 
-🛠️ Languages and Tools
+🛠️ Languages and Tools:
+
 <p align="center">
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
@@ -71,7 +72,8 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-📊 GitHub Stats
+📊 GitHub Stats:
+
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en&theme=radical" alt="tedkouuu" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tedkouuu" width="48%"/>
