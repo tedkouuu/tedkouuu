@@ -78,14 +78,14 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 
   <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
-    <div style="background: #ffffff; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0;">
+    <div style="background: #ffffff; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0; width: 45%;">
       <h3 style="color: #333; margin: 10px 0;">GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en&theme=gruvbox" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
     </div>
   </a>
 
   <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
-    <div style="background: #ffffff; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0;">
+    <div style="background: #ffffff; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0; width: 45%;">
       <h3 style="color: #333; margin: 10px 0;">Most Used Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
     </div>
@@ -94,13 +94,14 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-      <h3 style="color: #333; margin: 10px 0;">GitHub Streak</h3>
   <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
-    <div style="background: #ffffff; border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0;">
+    <div style="background: #ffffff; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0; width: 45%;">
+      <h3 style="color: #333; margin: 10px 0;">GitHub Streak</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=tedkouuu&theme=gruvbox" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
     </div>
   </a>
 </div>
+
 
 ### 🤝 Let's Connect!
 
