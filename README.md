@@ -77,7 +77,7 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 
 <div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats:
  
   <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
     <div style="background: #ffffff; border-radius: 10px; padding: 15px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); border: 1px solid #e0e0e0; width: 45%;">
