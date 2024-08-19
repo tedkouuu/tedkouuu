@@ -77,14 +77,35 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
 
 ### 📊 GitHub Stats:
 
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en&theme=radical" alt="tedkouuu" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tedkouuu" width="49%"/>
+### 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+
+  <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #f5a623, #e94e77); border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="https://github-readme-stats.vercel.app/api?username=tedkouuu&show_icons=true&locale=en&theme=radical" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
+      <h3 style="color: #fff; margin: 10px 0;">My GitHub Stats</h3>
+    </div>
+  </a>
+
+  <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #ff5722, #ffeb3b); border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tedkouuu&show_icons=true&locale=en&layout=compact&theme=radical" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
+      <h3 style="color: #fff; margin: 10px 0;">Most Used Languages</h3>
+    </div>
+  </a>
+
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tedkouuu&theme=radical" alt="tedkouuu" width="100%"/>
+  <a href="https://github.com/tedkouuu" target="_blank" style="text-decoration: none;">
+    <div style="background: linear-gradient(135deg, #4caf50, #8bc34a); border-radius: 10px; padding: 20px; text-align: center; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=tedkouuu&theme=radical" alt="tedkouuu" width="100%" style="border-radius: 10px;"/>
+      <h3 style="color: #fff; margin: 10px 0;">GitHub Streak</h3>
+    </div>
+  </a>
 </div>
+
 
 ### 🤝 Let's Connect!
 
