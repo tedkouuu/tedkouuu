@@ -65,8 +65,8 @@ I'm a dedicated web developer with a strong focus on creating scalable and effic
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
-   <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powershell/microsoft_powershell-icon.svg" alt="powershell" width="40" height="40"/>
+    <a href="https://docs.microsoft.com/en-us/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="powershell" width="40" height="40"/>
   </a>
 </p>
 
